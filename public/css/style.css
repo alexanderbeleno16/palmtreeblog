@@ -1,0 +1,54 @@
+/* Colores: */
+
+/* #4583AA
+    #345e79;
+    #60b4e9;
+    #345e79;
+    #63b3db; 
+*/
+
+/* Utilities */
+.bg-banner-1{
+    background-image: url('../img/bg-banner-principal-1-1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 160px;
+    width: 100%;
+    height: 560px;
+}
+.bg-wave{
+    background-image: url('../img/wave-3.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+    border-bottom: none;
+}
+.bg-banner-2{
+    background-image: url('../img/bg-banner-principal-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 560px;
+}
+.bg-register{
+    background-image: url('../img/bg-register-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.wave-1, .wave-2{
+    background-image: url('../img/bg-wave-blue-6.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+    border-bottom: none;
+    height: 180px;
+}
+.wave-2{
+    background-image: url('../img/bg-wave-blue-3.svg');
+    height: 240px;
+}
+
