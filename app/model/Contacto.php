@@ -1,5 +1,5 @@
 <?php
-    //Clase Persona
+    //Clase contacto
     class Contacto{
         //atributos
         protected $nombre;

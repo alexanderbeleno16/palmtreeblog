@@ -1,5 +1,5 @@
 <?php
-    //Clase Persona
+    //Clase entrada
     class Entrada{
         //atributos
         protected $titulo;
